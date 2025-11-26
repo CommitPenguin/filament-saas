@@ -70,11 +70,11 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository:
 
-    git clone https://github.com/A2Insights/filament-saas-template.git
+    git clone https://github.com/CommitPenguin/filament-saas.git
 
 Switch to the repo folder:
 
-    cd filament-saas-template
+    cd filament-saas
 
 Install all php dependencies using composer:
 
@@ -186,10 +186,6 @@ Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recen
 ## Contributing
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
-## Security
-
-If you discover any security related issues, please email atila.danvi@outlook.com instead of using the issue tracker.
 
 ## License
 
