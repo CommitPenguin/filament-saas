@@ -191,11 +191,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 If you discover any security related issues, please email atila.danvi@outlook.com instead of using the issue tracker.
 
-## Credits
-
--   [Atila Silva](https://github.com/a21ns1g4ts)
--   [All Contributors](../../contributors)
-
 ## License
 
 The MIT License. Please see [license file](LICENSE.md) for more information.
